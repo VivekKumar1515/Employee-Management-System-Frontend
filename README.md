@@ -1,7 +1,3 @@
-Sure, here's a comprehensive README for the frontend project of your Employee Management System:
-
----
-
 # Employee Management System Frontend
 
 This project is the frontend component of an Employee Management System, built using React with Vite. It provides a user interface for managing employee information and interacts with the backend to perform CRUD operations.
